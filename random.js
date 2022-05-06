@@ -1,7 +1,10 @@
 var gen=document.getElementsByClassName("gen")[0];
 var output=document.getElementsByClassName("output")[0];
 var duration=5000;
-var arr=["1e1","1e2"];
+var arr=[1,2,3,4,"le1","le2"];
+
+
+
 
 gen.addEventListener("click",function()
 {
